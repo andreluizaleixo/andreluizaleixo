@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estou buscando sempre aprimorar os meus conhecimentos em DevOps, JS e VJ.
 - 💬 Pergunte-me sobre: tecnologia, filmes e um pouco sobre investimentos.
-- ⚡ Techs: HTML5, CSS3, JavaScript, PHP, Vue.js, React e Angular.
+- ⚡ Techs: HTML5, CSS3, JavaScript, Vue.js, React e Angular.
 
  
   <div style="display: inline_block"><br>
